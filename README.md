@@ -1,4 +1,4 @@
-# [Tetris 플레이 링크](https://gyuriling.github.io/Tetris/)
+# [TETRIS 플레이 링크](https://gyuriling.github.io/Tetris/)
 
 
 키:

@@ -1,5 +1,6 @@
 # [TETRIS 플레이 링크](https://gyuriling.github.io/Tetris/)
 
+###### 이 링크를 보고오는나의친구들에게... 폰으로는안되니까키보드를들고오도록해 
 
 키:
 ```

@@ -1,6 +1,6 @@
-# 🤍[play TETRIS](https://gyuriling.github.io/Tetris/)
+# 🤍[play TETRIS]🤍(https://gyuriling.github.io/Tetris/)
 
-키:
+key:
 ```
 방향키로 왼쪽 오른쪽 이동 
 c 홀드
@@ -28,7 +28,7 @@ ARR DAS SDF (감도설정)
 
 * * *
 
-# 🤍Update Log
+# 🤍Update Log🤍
 
 * v1.0.0 (25.05.14)
 > **미니멀 테트리스 게임 구현**<br/>

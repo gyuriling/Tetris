@@ -1,4 +1,4 @@
-# [TETRIS 플레이 링크](https://gyuriling.github.io/Tetris/)
+# 🤍[TETRIS 플레이 링크](https://gyuriling.github.io/Tetris/)
 
 키:
 ```
@@ -25,7 +25,7 @@ ARR DAS SDF 감도설정
 
 
 
-# 업데이트
+# 🤍업데이트
 
 * v1.0.0
 

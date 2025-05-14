@@ -1,4 +1,4 @@
-# 🤍[TETRIS 플레이 링크](https://gyuriling.github.io/Tetris/)
+# 🤍[TETRIS play link](https://gyuriling.github.io/Tetris/)
 
 키:
 ```
@@ -28,7 +28,7 @@ ARR DAS SDF (감도설정)
 
 
 
-# 🤍업데이트
+# 🤍Update log
 
 * v1.0.0 (25.05.14)
 > **미니멀 테트리스 게임 구현**<br/>

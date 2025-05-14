@@ -1,4 +1,4 @@
-# 🤍[play TETRIS](https://gyuriling.github.io/Tetris/)🤍
+# 🤍[Play TETRIS](https://gyuriling.github.io/Tetris/)🤍
 
 key:
 ```

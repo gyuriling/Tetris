@@ -1,6 +1,6 @@
 # [TETRIS 플레이 링크](https://gyuriling.github.io/Tetris/)
 
-##### 폰으로는안됨 키보드잇어야됨! 
+> 폰으로는안됨 키보드잇어야됨! 
 
 키:
 ```

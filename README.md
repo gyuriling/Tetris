@@ -1,6 +1,4 @@
-# Tetris
-
-# https://gyuriling.github.io/Tetris/
+# Tetris : https://gyuriling.github.io/Tetris/
 
 
 방향키:

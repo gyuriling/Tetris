@@ -1,4 +1,4 @@
-# Tetris : https://gyuriling.github.io/Tetris/
+# [Tetris 플레이 링크](https://gyuriling.github.io/Tetris/)
 
 
 방향키:
